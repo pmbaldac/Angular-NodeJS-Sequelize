@@ -4,25 +4,25 @@ Pantalla de inicio de sesión
 
 # Login Exitoso
 Respuesta de validación de credenciales correctas contra registro de base de datos PostgreSQL
-![Login](https://github.com/pmbaldac/Angular-NodeJS-Sequelize/blob/main/cliente/ruta/Login_Exitoso.jpg?raw=true)
+![Login_Exitodo](https://github.com/pmbaldac/Angular-NodeJS-Sequelize/blob/main/cliente/ruta/Login_Exitoso.jpg?raw=true)
 
 # Login Fallido
 Respuesta de validación de credenciales incorrectas contra registro de base de datos PostgreSQL
-![Login](https://github.com/pmbaldac/Angular-NodeJS-Sequelize/blob/main/cliente/ruta/Login_Fallido.jpg?raw=true)
+![Login_Fallido](https://github.com/pmbaldac/Angular-NodeJS-Sequelize/blob/main/cliente/ruta/Login_Fallido.jpg?raw=true)
 
 # Registro de Nuevo Usuario
 Pantalla de Registro de Nuevo Usuario
-![Login](https://github.com/pmbaldac/Angular-NodeJS-Sequelize/blob/main/cliente/ruta/Registro_Usuario.jpg?raw=true)
+![Nuevo_Usuario](https://github.com/pmbaldac/Angular-NodeJS-Sequelize/blob/main/cliente/ruta/Registro_Usuario.jpg?raw=true)
 
 # Registro de Nuevo Usuario Exitoso
 Pantalla de Registro de Usuario Exitoso en PostgreSQL
-![Login](https://github.com/pmbaldac/Angular-NodeJS-Sequelize/blob/main/cliente/ruta/Registro_Usuario.jpg?raw=true)
+![Nuevo_Usuario_Exitodo](https://github.com/pmbaldac/Angular-NodeJS-Sequelize/blob/main/cliente/ruta/Registro_Usuario.jpg?raw=true)
 
 # Sequelize Conexion PostgreSQL
-![Login](https://github.com/pmbaldac/Angular-NodeJS-Sequelize/blob/main/cliente/ruta/Sequelize_Conexion_PostgreSQL?raw=true)
+![Sequelize_Conexion_PostgreSQL](https://github.com/pmbaldac/Angular-NodeJS-Sequelize/blob/main/cliente/ruta/Sequelize_Conexion_PostgreSQL?raw=true)
 
 # Sequelize Crear Tabla
-![Login](https://github.com/pmbaldac/Angular-NodeJS-Sequelize/blob/main/cliente/ruta/Sequelize_Crear_Tabla?raw=true)
+![Sequelize_Crear_Tabla](https://github.com/pmbaldac/Angular-NodeJS-Sequelize/blob/main/cliente/ruta/Sequelize_Crear_Tabla?raw=true)
 
 # Sequelize Crear Registro Tabla
-![Login](https://github.com/pmbaldac/Angular-NodeJS-Sequelize/blob/main/cliente/ruta/Sequelize_Crear_Registro_Tabla?raw=true)
+![Sequelize_Crear_Registro_Tabla](https://github.com/pmbaldac/Angular-NodeJS-Sequelize/blob/main/cliente/ruta/Sequelize_Crear_Registro_Tabla?raw=true)
