@@ -16,7 +16,7 @@ Pantalla de Registro de Nuevo Usuario
 
 # Registro de Nuevo Usuario Exitoso
 Pantalla de Registro de Usuario Exitoso en PostgreSQL
-![Nuevo_Usuario_Exitodo](https://github.com/pmbaldac/Angular-NodeJS-Sequelize/blob/main/cliente/ruta/Registro_Usuario.jpg?raw=true)
+![Nuevo_Usuario_Exitodo](https://github.com/pmbaldac/Angular-NodeJS-Sequelize/blob/main/cliente/ruta/Registro_Usuario_Exitoso.jpg?raw=true)
 
 # Sequelize Conexion PostgreSQL
 ![Sequelize_Conexion_PostgreSQL](https://github.com/pmbaldac/Angular-NodeJS-Sequelize/blob/main/cliente/ruta/Sequelize_Conexion_PostgreSQL.jpg?raw=true)
